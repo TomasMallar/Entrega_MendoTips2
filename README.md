@@ -1,7 +1,5 @@
 # Entrega_MendoTips2
 Aplicación de la Herramienta Bootstrap
-# Entrega_MendoTips
-Entrega MendoTips
 <h1 align="center">Hi 👋, I'm Tomas Mallar</h1>
 <h3 align="center">A student engineer systems and future front end developer. This web page is about Mendoza, where I currently live, and I try to show a bit of it.</h3>
 <h3 align="left">Connect with me:</h3>
