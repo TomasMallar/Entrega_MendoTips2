@@ -77,7 +77,11 @@ p {
     align-items: center;
     justify-content: center;
 }
-
+.bien{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
 .bien:hover, .bien:focus{
     color: #fff;
     transition: background-color 2s ease-out;
